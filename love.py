@@ -1,0 +1,1 @@
+print("Humanity loves war")

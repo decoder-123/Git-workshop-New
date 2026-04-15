@@ -1,2 +1,3 @@
 print("This cmd will boom on if created using escape key")
 print("It is obsolete version of escape")
+print("Having huge fun man")
